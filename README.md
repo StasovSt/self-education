@@ -1,2 +1,2 @@
-# self-education
+# self_education
 various homework and pet-projects
